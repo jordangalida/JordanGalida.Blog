@@ -1,6 +1,7 @@
 ---
 title: "Custom Dropper"
 date: 2022-01-12T13:20:47-05:00
+draft: false
 ---
 ## Writing Custom Malware For Red Teams
 

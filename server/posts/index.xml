@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Malware Blog</title>
+    <link>https://jordangalida.github.io/posts/</link>
+    <description>Recent content in Posts on Malware Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 13:20:47 -0500</lastBuildDate><atom:link href="https://jordangalida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Dropper</title>
+      <link>https://jordangalida.github.io/posts/customdropper/</link>
+      <pubDate>Wed, 12 Jan 2022 13:20:47 -0500</pubDate>
+      
+      <guid>https://jordangalida.github.io/posts/customdropper/</guid>
+      <description>Writing Custom Malware For Red Teams Why should you write your own custom malware? Threat Hunters and AV engines are becoming more advanced and proficient at identifying and removing malware. Additionally, using malware templates written by some unkonwn person can actually compromise your client.
+PE Format Portable Executable Format is simply a way that an executable&amp;rsquo;s code is organized on the disk so that the Windows OS Loader can read it,load it into memory as a process, and execute it.</description>
+    </item>
+    
+  </channel>
+</rss>

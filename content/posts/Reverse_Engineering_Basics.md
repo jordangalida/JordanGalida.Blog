@@ -1,10 +1,8 @@
 ---
 title: "Reverse Engineering Basics"
-date: 2022-02-01T13:20:47-05:00
+date: 2022-02-01T10:43:36-05:00
 draft: false
 ---
-
-# Reverse Engineering Basics
 
 ## Assembly Language
 
